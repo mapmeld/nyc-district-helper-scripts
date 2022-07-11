@@ -8,6 +8,8 @@ edited district.
 
 TODO
 
+- resolve which columns - might need to calculate one
 - client-side
 - undo/redo
-- handling errors
+- handling errors in a transaction (repeat server req or undo?)
+- new layer for % subgroups visualization (bg or tract?)
